@@ -1,0 +1,6 @@
+{
+  "name": "BuildPass MAP - CITB Exam Prep",
+  "description": "Interactive CITB Managers and Professionals (MAP) health, safety and environment revision platform with accredited video modules, 50-question mock exams, and statutory audit analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
